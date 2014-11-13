@@ -1,0 +1,23 @@
+{
+  "name": "hubot-slack-timeline",
+  "version": "0.1.0",
+  "author": {
+    "name": "vexus2",
+    "email": "hikaru.tooyama@gmail.com"
+  },
+  "keywords": [
+    "hubot",
+    "slack",
+    "timeline"
+  ],
+  "description": "send all of the messages on Slack in #timeline",
+  "licenses": [{
+    "type": "MIT",
+    "url": ""
+  }],
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/vexus2/hubot-slack-timeline"
+  },
+  "main": "index.coffee"
+}
