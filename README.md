@@ -3,6 +3,7 @@
 ## Description
 
 It will send all of the messages on Slack in #timeline.
+However, a private group messages does not include
 
 ## Installation and Setup
 
