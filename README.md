@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/hubot-slack-timeline.svg)](http://badge.fury.io/js/hubot-slack-timeline)
+
 # Hubot Slack Timeline
 
 ## Description
