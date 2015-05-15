@@ -28,7 +28,7 @@ type `/open` and create #timeline channel in your Slack
     % export SLACK_API_TOKEN="YOUR_SLACK_API_TOKEN"
 
 ### Optional
-#### timeline's channel name (default: timeline)
+#### change timeline's channel name (default: timeline)
     % export SLACK_TIMELINE_CHANNEL=timeline
 
 #### link name, channels into #timeline (default: 0)
