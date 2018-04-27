@@ -1,6 +1,6 @@
 {
   "name": "hubot-slack-timeline",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "author": {
     "name": "vexus2",
     "email": "hikaru.tooyama@gmail.com"
@@ -11,11 +11,13 @@
     "timeline"
   ],
   "description": "send all of the messages on Slack in #timeline",
-  "licenses": [{
-    "type": "MIT",
-    "url": "https://github.com/vexus2/slack-hubot-timeline/blob/master/LICENSE.md"
-  }],
-  "repository" : {
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/vexus2/slack-hubot-timeline/blob/master/LICENSE.md"
+    }
+  ],
+  "repository": {
     "type": "git",
     "url": "https://github.com/vexus2/hubot-slack-timeline"
   },
